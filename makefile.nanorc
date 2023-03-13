@@ -1,4 +1,4 @@
-syntax "makefile" "(m|M)akefile$" "\.mak$"
+syntax "makefile" "(m|M)akefile$" "\.mak$" "justfile"
 color brightgreen "((C|CXX|LD)FLAGS)|LIBADD|LIBS|include"
 icolor cyan start="\{" end="\}"
 icolor cyan start="\(" end="\)"

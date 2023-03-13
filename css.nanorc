@@ -1,4 +1,4 @@
-syntax "css" "\.css$"
+syntax "css" "\.s?css$"
 color brightred "."
 color brightyellow start="\{" end="\}"
 color brightwhite start=":" end="[;^\{]"
